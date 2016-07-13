@@ -188,4 +188,3 @@ mySubObj = new MySubClass();
 mySubObj.myFunc();
 mySubObj.baz();
 
-/*  */
