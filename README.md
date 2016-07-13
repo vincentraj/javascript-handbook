@@ -1,4 +1,4 @@
-# jshandbook
+# javascript-handbook
 Handbook for JavaScript beginners
 
   1. JavaScript in WebPages
